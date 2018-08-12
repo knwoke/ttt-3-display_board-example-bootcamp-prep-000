@@ -4,7 +4,7 @@ def display_board
   dash_top = "-----------"
   puts board_top
   puts dash_top
-  puts board_middle
+  puts board_top
   puts dash_top
-  puts board_bottom
+  puts board_top
 end
