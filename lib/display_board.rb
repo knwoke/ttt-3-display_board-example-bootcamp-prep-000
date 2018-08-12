@@ -6,6 +6,8 @@ def display_board
   dash_top = "-----------"
   board_bottom = ["   ", "|" "   ", "|" "   "]
   puts board_top
+  puts dash_top
   puts board_middle
+  puts dash_top
   puts board_bottom
 end
