@@ -3,5 +3,7 @@ def display_board
   board_top = ["   ", "|" "   ", "|" "   "]
   board_middle = ["   ", "|" "   ", "|" "   "]
   board_bottom = ["   ", "|" "   ", "|" "   "]
-  puts board
+  puts board_top
+  puts board_middle
+  puts board_bottom
 end
