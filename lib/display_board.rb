@@ -2,9 +2,6 @@
 def display_board
   board_top = ["   ", "|" "   ", "|" "   "]
   dash_top = "-----------"
-  board_middle = ["   ", "|" "   ", "|" "   "]
-  dash_top = "-----------"
-  board_bottom = ["   ", "|" "   ", "|" "   "]
   puts board_top
   puts dash_top
   puts board_middle
